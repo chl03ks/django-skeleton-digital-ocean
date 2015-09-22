@@ -1,0 +1,1 @@
+[{"fields": {"username": "admin", "first_name": "", "last_name": "", "is_active": true, "is_superuser": true, "is_staff": true, "last_login": null, "groups": [], "user_permissions": [], "password": "pbkdf2_sha256$20000$CjsgSUQPKSfW$mXWeascZT18ResBl4V6CPyVGD6mBkMOufjUup3sDfQM=", "email": "", "date_joined": "2015-09-15T15:23:29.492Z"}, "model": "auth.user", "pk": 1}]

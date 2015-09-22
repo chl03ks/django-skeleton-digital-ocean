@@ -1,0 +1,6 @@
+# ignore these files when push to git repo
+
+*.pyc
+local_settings.py
+*.DS_Store
+db.sqlite3
